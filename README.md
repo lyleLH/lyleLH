@@ -6,3 +6,11 @@
 - 🌱 I’m currently learning RxSwift & Flutter
 - 👯 I’m looking to collaborate on open source community
 - 📫 How to reach me: v2top1lyle@gmail.com
+
+###  Tech Stack 
+
+- 💻 &nbsp; Objective-C | Swift | Dart | JavaScript
+- 🌐 &nbsp; iOS | flutter
+- 🔧 &nbsp; Xcode | RubyMine | IDEA | Visual Studio code | Git
+
+
