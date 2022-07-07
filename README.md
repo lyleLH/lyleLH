@@ -7,10 +7,14 @@
 - 👯 I’m looking to collaborate on open source community
 - 📫 How to reach me: v2top1lyle@gmail.com
 
-###  Tech Stack 
+###  Language
 
-- 💻 &nbsp; Objective-C | Swift | Dart | JavaScript
-- 🌐 &nbsp; iOS | flutter
-- 🔧 &nbsp; Xcode | RubyMine | IDEA | Visual Studio code | Git
+[![My Skills](https://skillicons.dev/icons?i=swift,ruby,java,dart,js&theme=light)](https://skillicons.dev)
 
+###  Framework Or Env
 
+[![My Skills](https://skillicons.dev/icons?i=flutter,vue,rails,nodejs&theme=light)](https://skillicons.dev)
+
+###  Tools
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,figma&theme=light)](https://skillicons.dev)
