@@ -2,9 +2,8 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on iOS 
-- 🌱 I’m currently learning RxSwift & Flutter
-- 👯 I’m looking to collaborate on open source community
+- 🔭 I’m currently working on iOS and TS fullstack development.
+- 👯 I’m looking to collaborate on open source community and remote job.
 - 📫 How to reach me: v2top1lyle@gmail.com
 
 ###  Language
