@@ -9,7 +9,7 @@
 
 ###  Language
 
-[![My Skills](https://skillicons.dev/icons?i=swift,ruby,java,dart,js&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=swift,ruby,java,dart,ts&theme=light)](https://skillicons.dev)
 
 ###  Framework Or Env
 
