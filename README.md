@@ -13,8 +13,8 @@
 
 ###  Framework Or Env
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,vue,rails,nodejs&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,flutter,vue,rails,nodejs&theme=light)](https://skillicons.dev)
 
 ###  Tools
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=neovim,git,github,gitlab,vscode,idea,figma&theme=light)](https://skillicons.dev)
