@@ -16,4 +16,4 @@
 
 ###  Tools
 
-[![My Skills](https://skillicons.dev/icons?i=neovim,git,github,gitlab,vscode,idea,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=apple,neovim,git,github,gitlab,vscode,idea,figma&theme=light)](https://skillicons.dev)
